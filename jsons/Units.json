@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"name": "M84",
+		"unitType": "Armored",
+		"uniqueTo": "Serbia",
+		"replaces": "Tank",
+		"movement": 5,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
