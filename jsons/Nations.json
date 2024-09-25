@@ -26,7 +26,10 @@
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
-
+		
+                "outerColor": [1, 55, 145],
+                "innerColor": [245, 48, 44],
+		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "Yugoslavia Declaring",
