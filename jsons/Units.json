@@ -1,17 +1,28 @@
 [
 	{
-		"name": "M84",
+		"name": "M84-M",
 		"unitType": "Armored",
 		"uniqueTo": "Serbia",
 		"replaces": "Modern Armor",
-		"movement": 5,
+		"movement": 6,
 		"strength": 107,
 		"cost": 425,
 		"requiredTech": "Lasers",
 		"requiredResource": "Oil",
-		"attackSound": "phasers"
+		"attackSound": "tankshot"
 	},
 	{
-		
+	        "name": "M84",
+	        "unitType": "Armored",
+	        "uniqueTo": "Serbia",
+	        "replaces": "Modern Armor",
+	        "movement": 5,
+	        "strength": 107,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "tankshot"	
 	}
 ]
