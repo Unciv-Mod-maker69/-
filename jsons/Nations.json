@@ -32,6 +32,7 @@
 		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"favoredReligion": "Cristianity"
 		"uniqueName": "Yugoslavia Declaring",
 		"unique":
 		"cities": ["Belgrad","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
