@@ -1,6 +1,6 @@
 [
 	{
-		"name": "M84-M",
+		"name": "M84-AS1",
 		"unitType": "Armored",
 		"uniqueTo": "Serbia",
 		"replaces": "Modern Armor",
@@ -24,5 +24,8 @@
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"	
+	},
+	{
+		"name": "
 	}
 ]
