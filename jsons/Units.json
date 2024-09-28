@@ -17,15 +17,34 @@
 	        "uniqueTo": "Serbia",
 	        "replaces": "Modern Armor",
 	        "movement": 5,
-	        "strength": 107,
+	        "strength": 87,
 		"cost": 425,
 		"requiredTech": "Lasers",
 		"requiredResource": "Oil",
-		"upgradesTo": "Modern Armor",
+		"upgradesTo": "Tank",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"attackSound": "tankshot"	
+		"attackSound": "tankshot"
 	},
 	{
-		"name": "
+		"name": "Lazar 3",
+		"unitType": "Armored",
+		"uniqueTo": "Serbia",
+		"replaces": "Armoured Personnel Carier",
+		"movement":6,
+		"Strenght":96,
+		"Cost":400,
+		"requiredTech": "Mobile Tactics",
+		"uniques" ["[+30]% Strength <vs [Gunpowder] units>"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Armoured Personnel Carier",
+		"unitType": "Armored",
+		"Movement":5,
+		"Strenght":93,
+		"Cost":400,
+		"requiredTech": "Mobile Tactics",
+		"uniques" ["[+30]% Strength <vs [Gunpowder] units>"],
+		"attackSound": "machinegun"
 	}
 ]
