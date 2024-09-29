@@ -3,7 +3,7 @@
 		"name": "Serbia",
 		"leaderName": "Alexander Vucic",
 		"adjective": ["Serbian"],
-		"startBias": ["Meadows"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Hello",
@@ -25,10 +25,7 @@
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		
-                "outerColor": [1, 55, 145],
-                "innerColor": [245, 48, 44],
+		"tradeRequest": "We bestow you the honor of this trade.",
 		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
